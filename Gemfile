@@ -73,3 +73,9 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "meta-tags", "~> 2.22"
+
+gem "sitemap_generator", "~> 6.3"
+
+gem "actionpack-page_caching", "~> 1.2"
